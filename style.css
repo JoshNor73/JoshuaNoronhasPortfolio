@@ -29,7 +29,7 @@ img {
     /*grid-template-columns: 2fr 2fr;
     grid-row-gap: 50px;
     grid-column-gap: 25px;*/
-    grid-template-rows:autoZ;
+    grid-template-rows:auto;
 }
 
 .content {
